@@ -23,7 +23,7 @@ PL/SQL with Oracle, MySQL, MariaDB, SqLite, MongoDB.
 #### Testing
 JUnit, Mockk, Mockito, Roboelectric.
 #### Others
-Git, GitLab, GitHub, Confluence, Scrum, Redmine, Jira.
+CI/CD (Github Actions and Jenkins), Git, GitLab, GitHub, Confluence, Scrum, Redmine, Jira.
 
 ## Contact with me!
 [<img src="https://img.shields.io/badge/linkedin-lightblue?style=for-the-badge"/>](https://www.linkedin.com/in/rubenzg) [<img src="https://img.shields.io/badge/email-lightred?style=for-the-badge">](mailto:rbnzunigagarcia@gmail.com)
